@@ -7,7 +7,7 @@ This repository aims at making the load balancing tool [httperf](https://github.
 
 Image Details:
 
-*Base Image*: debian:stable-slim
+**Base Image**: debian:stable-slim
 
 
 httperf has been installed and not built from it's repository 
